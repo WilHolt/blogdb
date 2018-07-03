@@ -1,4 +1,4 @@
-{
+"posts"[{
   "userId": 1,
   "id":1,
   "title":"any",
@@ -68,3 +68,4 @@
     "time":"any",
   }
 }
+]
