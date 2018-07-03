@@ -1,12 +1,6 @@
 {
   "posts": [
-  { "id": 1,   "title":"any", "body":"any", "category":"any", "comments":{
-    "name":"any",
-    "email":"any",
-    "message":"any",
-    "ip":"any",
-    "time":"any",
-  }},
+  { "id": 1,   "title":"any", "body":"any", "category":"any"},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
